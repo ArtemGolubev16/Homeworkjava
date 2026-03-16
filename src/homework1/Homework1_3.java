@@ -6,7 +6,8 @@ public class Homework1_3 {
         int a = 7;
         int b = 5;
         int c = 6;
-        System.out.println(a+b+c);
-        String n_ = "Переменная n = 18";
+        int n = a+b+c;
+        System.out.println(n);
+
     }
 }
