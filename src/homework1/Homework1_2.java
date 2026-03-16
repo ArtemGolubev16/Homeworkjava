@@ -5,6 +5,7 @@ public class Homework1_2 {
         int n = 54;
         int a = 5;
         int b = 4;
-        System.out.println(a+b);
+        int c = a+b;
+        System.out.println(c);
     }
 }
